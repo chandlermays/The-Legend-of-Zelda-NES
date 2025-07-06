@@ -1,0 +1,1291 @@
+fileFormatVersion: 2
+guid: 6ef46ac2791b02749a4d825651c5160e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8235476311218250595
+    second: ZeldaKeyboardFont_0
+  - first:
+      213: -7424104308583419652
+    second: ZeldaKeyboardFont_1
+  - first:
+      213: 3766464721825080713
+    second: ZeldaKeyboardFont_2
+  - first:
+      213: -2943753885040883775
+    second: ZeldaKeyboardFont_3
+  - first:
+      213: 5585001986770361115
+    second: ZeldaKeyboardFont_4
+  - first:
+      213: -5106842162514107946
+    second: ZeldaKeyboardFont_5
+  - first:
+      213: 2884519395584237005
+    second: ZeldaKeyboardFont_6
+  - first:
+      213: 4119315182946950089
+    second: ZeldaKeyboardFont_7
+  - first:
+      213: 138414903717699172
+    second: ZeldaKeyboardFont_8
+  - first:
+      213: -3123235252902971921
+    second: ZeldaKeyboardFont_9
+  - first:
+      213: 8780875303084990266
+    second: ZeldaKeyboardFont_10
+  - first:
+      213: -1064379602975960282
+    second: ZeldaKeyboardFont_11
+  - first:
+      213: 4607890549817233527
+    second: ZeldaKeyboardFont_12
+  - first:
+      213: 494698932562747680
+    second: ZeldaKeyboardFont_13
+  - first:
+      213: 8909774017334805154
+    second: ZeldaKeyboardFont_14
+  - first:
+      213: 4290802603443912586
+    second: ZeldaKeyboardFont_15
+  - first:
+      213: 4492584328378072564
+    second: ZeldaKeyboardFont_16
+  - first:
+      213: 2706274280689994783
+    second: ZeldaKeyboardFont_17
+  - first:
+      213: -406645973220323803
+    second: ZeldaKeyboardFont_18
+  - first:
+      213: 7088152499153050963
+    second: ZeldaKeyboardFont_19
+  - first:
+      213: -7334652259210759688
+    second: ZeldaKeyboardFont_20
+  - first:
+      213: 4436070617188539379
+    second: ZeldaKeyboardFont_21
+  - first:
+      213: -1284700722313964059
+    second: ZeldaKeyboardFont_22
+  - first:
+      213: -1311820891543063773
+    second: ZeldaKeyboardFont_23
+  - first:
+      213: 2019849137394400330
+    second: ZeldaKeyboardFont_24
+  - first:
+      213: 7464950549612692850
+    second: ZeldaKeyboardFont_25
+  - first:
+      213: 8520773936463438988
+    second: ZeldaKeyboardFont_26
+  - first:
+      213: 6525985560034046760
+    second: ZeldaKeyboardFont_27
+  - first:
+      213: 8394009233080426172
+    second: ZeldaKeyboardFont_28
+  - first:
+      213: -5359867268837087903
+    second: ZeldaKeyboardFont_29
+  - first:
+      213: -8678848188570105367
+    second: ZeldaKeyboardFont_30
+  - first:
+      213: 2703441392135358414
+    second: ZeldaKeyboardFont_31
+  - first:
+      213: 3415621105319433363
+    second: ZeldaKeyboardFont_32
+  - first:
+      213: 5808929875767176056
+    second: ZeldaKeyboardFont_33
+  - first:
+      213: 7038568186074616242
+    second: ZeldaKeyboardFont_34
+  - first:
+      213: 3158718631448248454
+    second: ZeldaKeyboardFont_35
+  - first:
+      213: 3252771921050654620
+    second: ZeldaKeyboardFont_36
+  - first:
+      213: -1237825066498909384
+    second: ZeldaKeyboardFont_37
+  - first:
+      213: -3455570678318617775
+    second: ZeldaKeyboardFont_38
+  - first:
+      213: -2688397229837223238
+    second: ZeldaKeyboardFont_39
+  - first:
+      213: 8187412445473086754
+    second: ZeldaKeyboardFont_40
+  - first:
+      213: 4061894010323675281
+    second: ZeldaKeyboardFont_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ZeldaKeyboardFont_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363ee46521a4a4270800000000000000
+      internalID: 8235476311218250595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeldaKeyboardFont_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 96
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf03077477848f890800000000000000
+      internalID: -7424104308583419652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeldaKeyboardFont_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985ac6b75bb254430800000000000000
+      internalID: 3766464721825080713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeldaKeyboardFont_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c746ff207fa527d0800000000000000
+      internalID: -2943753885040883775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeldaKeyboardFont_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b5c4367b9e18d40800000000000000
+      internalID: 5585001986770361115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeldaKeyboardFont_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1eb534c1ad029b0800000000000000
+      internalID: -5106842162514107946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeldaKeyboardFont_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcdd5818b1fd70820800000000000000
+      internalID: 2884519395584237005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeldaKeyboardFont_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb1d65755fba2930800000000000000
+      internalID: 4119315182946950089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeldaKeyboardFont_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e96bf1f9fbbe100800000000000000
+      internalID: 138414903717699172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeldaKeyboardFont_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 96
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5bdb8c51a08a4d0800000000000000
+      internalID: -3123235252902971921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeldaKeyboardFont_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f9169a09febd970800000000000000
+      internalID: 8780875303084990266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeldaKeyboardFont_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 96
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6235272f3609a31f0800000000000000
+      internalID: -1064379602975960282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeldaKeyboardFont_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7705cb99a0482ff30800000000000000
+      internalID: 4607890549817233527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeldaKeyboardFont_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 96
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021ea22ee068dd600800000000000000
+      internalID: 494698932562747680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeldaKeyboardFont_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a20f344340e5ab70800000000000000
+      internalID: 8909774017334805154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeldaKeyboardFont_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 96
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f7893fb3efb8b30800000000000000
+      internalID: 4290802603443912586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeldaKeyboardFont_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd3678d4add85e30800000000000000
+      internalID: 4492584328378072564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeldaKeyboardFont_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c8d4dae1e9e8520800000000000000
+      internalID: 2706274280689994783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeldaKeyboardFont_18
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 48
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e0cd054ad4b5af0800000000000000
+      internalID: -406645973220323803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeldaKeyboardFont_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d90d1b42d2e5260800000000000000
+      internalID: 7088152499153050963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeldaKeyboardFont_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1f9b281a4163a90800000000000000
+      internalID: -7334652259210759688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeldaKeyboardFont_21
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 48
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb121819b6109d30800000000000000
+      internalID: 4436070617188539379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeldaKeyboardFont_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5d9cbef73db2ee0800000000000000
+      internalID: -1284700722313964059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeldaKeyboardFont_23
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323b3a679d97bcde0800000000000000
+      internalID: -1311820891543063773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeldaKeyboardFont_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4cb54eb612f70c10800000000000000
+      internalID: 2019849137394400330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeldaKeyboardFont_25
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 48
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275858f49f4d89760800000000000000
+      internalID: 7464950549612692850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeldaKeyboardFont_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 48
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c846f4e00cedf3670800000000000000
+      internalID: 8520773936463438988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeldaKeyboardFont_27
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 48
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823782b6a45f09a50800000000000000
+      internalID: 6525985560034046760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeldaKeyboardFont_28
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 48
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe9b139ce28d7470800000000000000
+      internalID: 8394009233080426172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeldaKeyboardFont_29
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 48
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165e8b5ed1ded95b0800000000000000
+      internalID: -5359867268837087903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeldaKeyboardFont_30
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 48
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e98cb41e898e8780800000000000000
+      internalID: -8678848188570105367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeldaKeyboardFont_31
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 48
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7c0596f9d848520800000000000000
+      internalID: 2703441392135358414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeldaKeyboardFont_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39454ed6c49b66f20800000000000000
+      internalID: 3415621105319433363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeldaKeyboardFont_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ba14ae1f67d9050800000000000000
+      internalID: 5808929875767176056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeldaKeyboardFont_34
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1d75a29740ea160800000000000000
+      internalID: 7038568186074616242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeldaKeyboardFont_35
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68081e41cd506db20800000000000000
+      internalID: 3158718631448248454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeldaKeyboardFont_36
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 0
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97d69904da242d20800000000000000
+      internalID: 3252771921050654620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeldaKeyboardFont_37
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 0
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b124909ac52dee0800000000000000
+      internalID: -1237825066498909384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeldaKeyboardFont_38
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b2096c6c85b00d0800000000000000
+      internalID: -3455570678318617775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeldaKeyboardFont_39
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba786496f4e0bad0800000000000000
+      internalID: -2688397229837223238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeldaKeyboardFont_40
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 0
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d190a8d388f9170800000000000000
+      internalID: 8187412445473086754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeldaKeyboardFont_41
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 0
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19821a0e41fbe5830800000000000000
+      internalID: 4061894010323675281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeldaKeyboardFont_42
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af30129defafc14492b5a7a91a28020
+      internalID: -684348888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeldaKeyboardFont_43
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 0
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828d9f5e379e58540b2549d1d12465a3
+      internalID: 1258503262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeldaKeyboardFont_None
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 0
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edb78a7207425e449147f92537556cb
+      internalID: -1981634332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f594117bfab599241983842812bc3963
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ZeldaKeyboardFont_0: 8235476311218250595
+      ZeldaKeyboardFont_1: -7424104308583419652
+      ZeldaKeyboardFont_10: 8780875303084990266
+      ZeldaKeyboardFont_11: -1064379602975960282
+      ZeldaKeyboardFont_12: 4607890549817233527
+      ZeldaKeyboardFont_13: 494698932562747680
+      ZeldaKeyboardFont_14: 8909774017334805154
+      ZeldaKeyboardFont_15: 4290802603443912586
+      ZeldaKeyboardFont_16: 4492584328378072564
+      ZeldaKeyboardFont_17: 2706274280689994783
+      ZeldaKeyboardFont_18: -406645973220323803
+      ZeldaKeyboardFont_19: 7088152499153050963
+      ZeldaKeyboardFont_2: 3766464721825080713
+      ZeldaKeyboardFont_20: -7334652259210759688
+      ZeldaKeyboardFont_21: 4436070617188539379
+      ZeldaKeyboardFont_22: -1284700722313964059
+      ZeldaKeyboardFont_23: -1311820891543063773
+      ZeldaKeyboardFont_24: 2019849137394400330
+      ZeldaKeyboardFont_25: 7464950549612692850
+      ZeldaKeyboardFont_26: 8520773936463438988
+      ZeldaKeyboardFont_27: 6525985560034046760
+      ZeldaKeyboardFont_28: 8394009233080426172
+      ZeldaKeyboardFont_29: -5359867268837087903
+      ZeldaKeyboardFont_3: -2943753885040883775
+      ZeldaKeyboardFont_30: -8678848188570105367
+      ZeldaKeyboardFont_31: 2703441392135358414
+      ZeldaKeyboardFont_32: 3415621105319433363
+      ZeldaKeyboardFont_33: 5808929875767176056
+      ZeldaKeyboardFont_34: 7038568186074616242
+      ZeldaKeyboardFont_35: 3158718631448248454
+      ZeldaKeyboardFont_36: 3252771921050654620
+      ZeldaKeyboardFont_37: -1237825066498909384
+      ZeldaKeyboardFont_38: -3455570678318617775
+      ZeldaKeyboardFont_39: -2688397229837223238
+      ZeldaKeyboardFont_4: 5585001986770361115
+      ZeldaKeyboardFont_40: 8187412445473086754
+      ZeldaKeyboardFont_41: 4061894010323675281
+      ZeldaKeyboardFont_42: -684348888
+      ZeldaKeyboardFont_43: 1258503262
+      ZeldaKeyboardFont_5: -5106842162514107946
+      ZeldaKeyboardFont_6: 2884519395584237005
+      ZeldaKeyboardFont_7: 4119315182946950089
+      ZeldaKeyboardFont_8: 138414903717699172
+      ZeldaKeyboardFont_9: -3123235252902971921
+      ZeldaKeyboardFont_None: -1981634332
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

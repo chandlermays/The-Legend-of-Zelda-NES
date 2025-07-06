@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 43c982c6ad6b9e443abaa2866279e2e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2207476766035988882
+    second: FileSelectIcons_0
+  - first:
+      213: 2084426957786521800
+    second: FileSelectIcons_1
+  - first:
+      213: -5633241785317665415
+    second: FileSelectIcons_2
+  - first:
+      213: -5059471006901694816
+    second: FileSelectIcons_3
+  - first:
+      213: -8769269188493053870
+    second: FileSelectIcons_4
+  - first:
+      213: -4726626196808496450
+    second: FileSelectIcons_5
+  - first:
+      213: 3292929197164393420
+    second: FileSelectIcons_6
+  - first:
+      213: 2132897623993587066
+    second: FileSelectIcons_7
+  - first:
+      213: 7123167821533026447
+    second: FileSelectIcons_8
+  - first:
+      213: 4624516859785240311
+    second: FileSelectIcons_9
+  - first:
+      213: 6323704322111379588
+    second: FileSelectIcons_10
+  - first:
+      213: -1774369986897026271
+    second: FileSelectIcons_11
+  - first:
+      213: -6489916580907161685
+    second: FileSelectIcons_12
+  - first:
+      213: 8659191194674146097
+    second: FileSelectIcons_13
+  - first:
+      213: -4907912898405067218
+    second: FileSelectIcons_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FileSelectIcons_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 119
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e2f76b3977d51e0800000000000000
+      internalID: -2207476766035988882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FileSelectIcons_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 119
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c02d1b364f5dec10800000000000000
+      internalID: 2084426957786521800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FileSelectIcons_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 119
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975d0444174b2d1b0800000000000000
+      internalID: -5633241785317665415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FileSelectIcons_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 143
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae8c3aece529c9b0800000000000000
+      internalID: -5059471006901694816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FileSelectIcons_4
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 143
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250f718722c4d4680800000000000000
+      internalID: -8769269188493053870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FileSelectIcons_5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 59
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba8c294486a76eb0800000000000000
+      internalID: -4726626196808496450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FileSelectIcons_6
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 59
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3fe7b78a5d2bd20800000000000000
+      internalID: 3292929197164393420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FileSelectIcons_7
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 59
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a759964a613999d10800000000000000
+      internalID: 2132897623993587066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FileSelectIcons_8
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 68
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8818fdb4639ad260800000000000000
+      internalID: 7123167821533026447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FileSelectIcons_9
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 92
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fedd4d05959d2040800000000000000
+      internalID: 4624516859785240311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FileSelectIcons_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4881d08939f42c750800000000000000
+      internalID: 6323704322111379588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FileSelectIcons_11
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12363eed5eb2067e0800000000000000
+      internalID: -1774369986897026271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FileSelectIcons_12
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba76c15314f2fe5a0800000000000000
+      internalID: -6489916580907161685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FileSelectIcons_13
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 8
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b2eb06380ab2870800000000000000
+      internalID: 8659191194674146097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FileSelectIcons_14
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 32
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26120ed83793ebb0800000000000000
+      internalID: -4907912898405067218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FileSelectIcons_0: -2207476766035988882
+      FileSelectIcons_1: 2084426957786521800
+      FileSelectIcons_10: 6323704322111379588
+      FileSelectIcons_11: -1774369986897026271
+      FileSelectIcons_12: -6489916580907161685
+      FileSelectIcons_13: 8659191194674146097
+      FileSelectIcons_14: -4907912898405067218
+      FileSelectIcons_2: -5633241785317665415
+      FileSelectIcons_3: -5059471006901694816
+      FileSelectIcons_4: -8769269188493053870
+      FileSelectIcons_5: -4726626196808496450
+      FileSelectIcons_6: 3292929197164393420
+      FileSelectIcons_7: 2132897623993587066
+      FileSelectIcons_8: 7123167821533026447
+      FileSelectIcons_9: 4624516859785240311
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

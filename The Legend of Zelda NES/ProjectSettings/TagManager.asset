@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - MainMenu
+  - StoryMenu
+  - FileSelectMenu
+  - KeyboardCursor
+  - KeyboardTag
+  - RegisterPanelOneTextBoxes
+  - RegisterPanelTwoTextBoxes
+  - RegisterPanelThreeTextBoxes
+  - SaveFileOne
+  - SaveFileTwo
+  - SaveFileThree
+  - SaveFileOne_Name
+  - SaveFileTwo_Name
+  - SaveFileThree_Name
+  - SaveFileOne_Hearts
+  - SaveFileTwo_Hearts
+  - SaveFileThree_Hearts
+  - FileManager
+  - EliminationPanelOneTextBoxes
+  - EliminationPanelTwoTextBoxes
+  - EliminationPanelThreeTextBoxes
+  - Environment
+  - Enemy
+  - Item
+  - Stairs
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - MaskLayer
+  - IconLayer
+  - UILayer
+  - Player
+  - Enemy
+  - Static Obstacle
+  - Sections
+  - Obstacle
+  - Player Projectile
+  - Enemy Projectile
+  - Item
+  - Portals
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 3774983389
+    locked: 0
+  - name: Overlay
+    uniqueID: 1648923751
+    locked: 0
+  m_RenderingLayers:
+  - Default

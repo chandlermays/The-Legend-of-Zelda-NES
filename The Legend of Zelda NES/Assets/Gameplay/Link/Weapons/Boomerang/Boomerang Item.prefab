@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1982870934632952073
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2528335615737132723, guid: 0eda3530460c39a48bec66f317c93b1b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2528335615737132723, guid: 0eda3530460c39a48bec66f317c93b1b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2528335615737132723, guid: 0eda3530460c39a48bec66f317c93b1b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2528335615737132723, guid: 0eda3530460c39a48bec66f317c93b1b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2528335615737132723, guid: 0eda3530460c39a48bec66f317c93b1b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2528335615737132723, guid: 0eda3530460c39a48bec66f317c93b1b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2528335615737132723, guid: 0eda3530460c39a48bec66f317c93b1b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2528335615737132723, guid: 0eda3530460c39a48bec66f317c93b1b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2528335615737132723, guid: 0eda3530460c39a48bec66f317c93b1b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2528335615737132723, guid: 0eda3530460c39a48bec66f317c93b1b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9214703393192535139, guid: 0eda3530460c39a48bec66f317c93b1b, type: 3}
+      propertyPath: m_Name
+      value: Boomerang Item
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: -6960818563528798269, guid: 0eda3530460c39a48bec66f317c93b1b, type: 3}
+    - {fileID: 2537037931156246399, guid: 0eda3530460c39a48bec66f317c93b1b, type: 3}
+    - {fileID: 5875413981328437964, guid: 0eda3530460c39a48bec66f317c93b1b, type: 3}
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 9214703393192535139, guid: 0eda3530460c39a48bec66f317c93b1b, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: -7871357055414774253}
+  m_SourcePrefab: {fileID: 100100000, guid: 0eda3530460c39a48bec66f317c93b1b, type: 3}
+--- !u!1 &7234365886967944554 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 9214703393192535139, guid: 0eda3530460c39a48bec66f317c93b1b, type: 3}
+  m_PrefabInstance: {fileID: 1982870934632952073}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &-7871357055414774253
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7234365886967944554}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe9acf273a886164880651adad4521dc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemType: Boomerang
+  m_itemCost: 0

@@ -1,0 +1,1729 @@
+fileFormatVersion: 2
+guid: 645f810cf5ba79747b2423ddaacc88f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6699136317998179833
+    second: OverworldMap 1_0
+  - first:
+      213: 177163160484191706
+    second: OverworldMap 1_1
+  - first:
+      213: -8400559894087873517
+    second: OverworldMap 1_2
+  - first:
+      213: -5337365438969756774
+    second: OverworldMap 1_3
+  - first:
+      213: 5917707840844253340
+    second: OverworldMap 1_4
+  - first:
+      213: -8123586478358745150
+    second: OverworldMap 1_5
+  - first:
+      213: -5591096243367708094
+    second: OverworldMap 1_6
+  - first:
+      213: 3529141168266019350
+    second: OverworldMap 1_7
+  - first:
+      213: 6510934931971880692
+    second: OverworldMap 1_8
+  - first:
+      213: 881258070542870285
+    second: OverworldMap 1_9
+  - first:
+      213: 3928408912148913311
+    second: OverworldMap 1_10
+  - first:
+      213: -7150315821270214640
+    second: OverworldMap 1_11
+  - first:
+      213: 1058882484071436371
+    second: OverworldMap 1_12
+  - first:
+      213: 8819542047889223307
+    second: OverworldMap 1_13
+  - first:
+      213: -2735557145829536773
+    second: OverworldMap 1_14
+  - first:
+      213: 8557686748721476413
+    second: OverworldMap 1_15
+  - first:
+      213: 2223700010361737616
+    second: OverworldMap 1_16
+  - first:
+      213: 7018010877892548611
+    second: OverworldMap 1_17
+  - first:
+      213: -8343600118472702841
+    second: OverworldMap 1_18
+  - first:
+      213: -2240001782843910404
+    second: OverworldMap 1_19
+  - first:
+      213: 1659951294570443838
+    second: OverworldMap 1_20
+  - first:
+      213: 2702624040216061879
+    second: OverworldMap 1_21
+  - first:
+      213: 3061792121797421579
+    second: OverworldMap 1_22
+  - first:
+      213: -5864382350599137346
+    second: OverworldMap 1_23
+  - first:
+      213: 7807755780590167814
+    second: OverworldMap 1_24
+  - first:
+      213: -3685309044525665573
+    second: OverworldMap 1_25
+  - first:
+      213: -5050290146338257842
+    second: OverworldMap 1_26
+  - first:
+      213: 1497390855076780587
+    second: OverworldMap 1_27
+  - first:
+      213: 920002910345593300
+    second: OverworldMap 1_28
+  - first:
+      213: 8227475247002263150
+    second: OverworldMap 1_29
+  - first:
+      213: -8881667621473178123
+    second: OverworldMap 1_30
+  - first:
+      213: 1953602700166848722
+    second: OverworldMap 1_31
+  - first:
+      213: 5416841960252846900
+    second: OverworldMap 1_32
+  - first:
+      213: -6059103510722581155
+    second: OverworldMap 1_33
+  - first:
+      213: -5551329932255562907
+    second: OverworldMap 1_34
+  - first:
+      213: -2514488962962556004
+    second: OverworldMap 1_35
+  - first:
+      213: -218369612676507541
+    second: OverworldMap 1_36
+  - first:
+      213: 7276443229427427391
+    second: OverworldMap 1_37
+  - first:
+      213: -2965797766044868292
+    second: OverworldMap 1_38
+  - first:
+      213: -6194895117761106358
+    second: OverworldMap 1_39
+  - first:
+      213: 3551531927770201947
+    second: OverworldMap 1_40
+  - first:
+      213: 2868154726547710463
+    second: OverworldMap 1_41
+  - first:
+      213: 1922126477854885377
+    second: OverworldMap 1_42
+  - first:
+      213: -4786214420546026263
+    second: OverworldMap 1_43
+  - first:
+      213: -4385823719680078704
+    second: OverworldMap 1_44
+  - first:
+      213: 5460772381543555629
+    second: OverworldMap 1_45
+  - first:
+      213: -159212798863295546
+    second: OverworldMap 1_46
+  - first:
+      213: -8873004890324964472
+    second: OverworldMap 1_47
+  - first:
+      213: 4801275406812804428
+    second: OverworldMap 1_48
+  - first:
+      213: 2228724857123552599
+    second: OverworldMap 1_49
+  - first:
+      213: 3010510059712115149
+    second: OverworldMap 1_50
+  - first:
+      213: 5059486636464657522
+    second: OverworldMap 1_51
+  - first:
+      213: -867893522081551547
+    second: OverworldMap 1_52
+  - first:
+      213: 5673755026463867382
+    second: OverworldMap 1_53
+  - first:
+      213: -2952007987545504948
+    second: OverworldMap 1_54
+  - first:
+      213: 5993194661446791110
+    second: OverworldMap 1_55
+  - first:
+      213: -8828009354805205629
+    second: OverworldMap 1_56
+  - first:
+      213: 7084124758689604103
+    second: OverworldMap 1_57
+  - first:
+      213: 949028355657610340
+    second: OverworldMap 1_58
+  - first:
+      213: -5057131473836339564
+    second: OverworldMap 1_59
+  - first:
+      213: -4902413264415871470
+    second: OverworldMap 1_60
+  - first:
+      213: 2830194704682459894
+    second: OverworldMap 1_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OverworldMap 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 431
+        width: 12288
+        height: 4321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f52338dcfc18fc50800000000000000
+      internalID: 6699136317998179833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 46
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add12ffa4f8657200800000000000000
+      internalID: 177163160484191706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_2
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 383
+        width: 53
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ccf7ec8473b6b80800000000000000
+      internalID: -8400559894087873517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 428
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93c2cd696edde5b0800000000000000
+      internalID: -5337365438969756774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_4
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 428
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98c01a8debef1250800000000000000
+      internalID: 5917707840844253340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_5
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 428
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfa2477329334f80800000000000000
+      internalID: -8123586478358745150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_6
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 428
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24afb0de69f6862b0800000000000000
+      internalID: -5591096243367708094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_7
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 428
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61204b0c1370af030800000000000000
+      internalID: 3529141168266019350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_8
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 428
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6bddff2dc7b5a50800000000000000
+      internalID: 6510934931971880692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_9
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 428
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07672acb8bda3c00800000000000000
+      internalID: 881258070542870285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_10
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 428
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c5d1d8713848630800000000000000
+      internalID: 3928408912148913311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_11
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 428
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018555105a9f4cc90800000000000000
+      internalID: -7150315821270214640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_12
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 428
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35016f15208e1be00800000000000000
+      internalID: 1058882484071436371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_13
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 428
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8eee0eb3ce456a70800000000000000
+      internalID: 8819542047889223307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_14
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 428
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb8c0cf449590ad0800000000000000
+      internalID: -2735557145829536773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_15
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 383
+        width: 47
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d337c94e1c203c670800000000000000
+      internalID: 8557686748721476413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_16
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 383
+        width: 56
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091d4a4b06b2cde10800000000000000
+      internalID: 2223700010361737616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 335
+        width: 46
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308dc9ed5bbf46160800000000000000
+      internalID: 7018010877892548611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 284
+        width: 46
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784078606e3953c80800000000000000
+      internalID: -8343600118472702841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_19
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 335
+        width: 56
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6d85d1f3ae9e0e0800000000000000
+      internalID: -2240001782843910404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_20
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 284
+        width: 56
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34325958e4590710800000000000000
+      internalID: 1659951294570443838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_21
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 335
+        width: 47
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b76286de36a18520800000000000000
+      internalID: 2702624040216061879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_22
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 284
+        width: 47
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a23d376bbad7a20800000000000000
+      internalID: 3061792121797421579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_23
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 335
+        width: 56
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7d77da2578d9ea0800000000000000
+      internalID: -5864382350599137346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_24
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 284
+        width: 56
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6076413e388ba5c60800000000000000
+      internalID: 7807755780590167814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236
+        width: 46
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2738913f62bdcc0800000000000000
+      internalID: -3685309044525665573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_26
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 236
+        width: 53
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e444ad69ed3c9e9b0800000000000000
+      internalID: -5050290146338257842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_27
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 326
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a15c69c0dc7c410800000000000000
+      internalID: 1497390855076780587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_28
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 236
+        width: 47
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d18977c5c184cc00800000000000000
+      internalID: 920002910345593300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_29
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 236
+        width: 53
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e93e7652ddd2270800000000000000
+      internalID: 8227475247002263150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_30
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 326
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fda009fa5afdb480800000000000000
+      internalID: -8881667621473178123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 185
+        width: 46
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d060bf1e479c1b10800000000000000
+      internalID: 1953602700166848722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 137
+        width: 46
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4333d4d201d7c2b40800000000000000
+      internalID: 5416841960252846900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_33
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 185
+        width: 56
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5dee02a57db9eba0800000000000000
+      internalID: -6059103510722581155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_34
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 137
+        width: 56
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563f9ecb6d6b5f2b0800000000000000
+      internalID: -5551329932255562907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_35
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 185
+        width: 47
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bf9fa4c9dba1dd0800000000000000
+      internalID: -2514488962962556004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_36
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 137
+        width: 47
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b685da68ef138fcf0800000000000000
+      internalID: -218369612676507541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_37
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 185
+        width: 56
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38615e909e1bf460800000000000000
+      internalID: 7276443229427427391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_38
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 137
+        width: 56
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31af3f25ae57d6d0800000000000000
+      internalID: -2965797766044868292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 89
+        width: 46
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e2c0d56bf470aa0800000000000000
+      internalID: -6194895117761106358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 46
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f7333b873994130800000000000000
+      internalID: 3551531927770201947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_41
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 89
+        width: 56
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1ebb4178bbdc720800000000000000
+      internalID: 2868154726547710463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_42
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 38
+        width: 56
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106c9e509d3ccaa10800000000000000
+      internalID: 1922126477854885377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_43
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 89
+        width: 47
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4808cc753f39db0800000000000000
+      internalID: -4786214420546026263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_44
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 38
+        width: 47
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c8cf4609c6223c0800000000000000
+      internalID: -4385823719680078704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_45
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 89
+        width: 56
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22ea217c8f88cb40800000000000000
+      internalID: 5460772381543555629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_46
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 38
+        width: 56
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbbe009dcc5acdf0800000000000000
+      internalID: -159212798863295546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 46
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b60ed3011ccd480800000000000000
+      internalID: -8873004890324964472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_48
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 56
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4575e35b8e81a240800000000000000
+      internalID: 4801275406812804428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_49
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 0
+        width: 29
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75dbee203750eee10800000000000000
+      internalID: 2228724857123552599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_50
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 0
+        width: 53
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc171ede2fa77c920800000000000000
+      internalID: 3010510059712115149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_51
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 53
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274df402a48e63640800000000000000
+      internalID: 5059486636464657522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_52
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 0
+        width: 53
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b6771a07f94f3f0800000000000000
+      internalID: -867893522081551547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_53
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 53
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f147feb22a3dbe40800000000000000
+      internalID: 5673755026463867382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_54
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 0
+        width: 32
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c430c30306c5807d0800000000000000
+      internalID: -2952007987545504948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_55
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 0
+        width: 23
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfad419aca1c2350800000000000000
+      internalID: 5993194661446791110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_56
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 0
+        width: 53
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385a20db34c9c7580800000000000000
+      internalID: -8828009354805205629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_57
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 0
+        width: 53
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7026e3a4feddf4260800000000000000
+      internalID: 7084124758689604103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_58
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 0
+        width: 53
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464beb4e240ab2d00800000000000000
+      internalID: 949028355657610340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_59
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 0
+        width: 53
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e8987e7b571d9b0800000000000000
+      internalID: -5057131473836339564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_60
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 0
+        width: 77
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e24503c1127fbb0800000000000000
+      internalID: -4902413264415871470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverworldMap 1_61
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 0
+        width: 56
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f22ac1c61fd64720800000000000000
+      internalID: 2830194704682459894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      OverworldMap 1_0: 6699136317998179833
+      OverworldMap 1_1: 177163160484191706
+      OverworldMap 1_10: 3928408912148913311
+      OverworldMap 1_11: -7150315821270214640
+      OverworldMap 1_12: 1058882484071436371
+      OverworldMap 1_13: 8819542047889223307
+      OverworldMap 1_14: -2735557145829536773
+      OverworldMap 1_15: 8557686748721476413
+      OverworldMap 1_16: 2223700010361737616
+      OverworldMap 1_17: 7018010877892548611
+      OverworldMap 1_18: -8343600118472702841
+      OverworldMap 1_19: -2240001782843910404
+      OverworldMap 1_2: -8400559894087873517
+      OverworldMap 1_20: 1659951294570443838
+      OverworldMap 1_21: 2702624040216061879
+      OverworldMap 1_22: 3061792121797421579
+      OverworldMap 1_23: -5864382350599137346
+      OverworldMap 1_24: 7807755780590167814
+      OverworldMap 1_25: -3685309044525665573
+      OverworldMap 1_26: -5050290146338257842
+      OverworldMap 1_27: 1497390855076780587
+      OverworldMap 1_28: 920002910345593300
+      OverworldMap 1_29: 8227475247002263150
+      OverworldMap 1_3: -5337365438969756774
+      OverworldMap 1_30: -8881667621473178123
+      OverworldMap 1_31: 1953602700166848722
+      OverworldMap 1_32: 5416841960252846900
+      OverworldMap 1_33: -6059103510722581155
+      OverworldMap 1_34: -5551329932255562907
+      OverworldMap 1_35: -2514488962962556004
+      OverworldMap 1_36: -218369612676507541
+      OverworldMap 1_37: 7276443229427427391
+      OverworldMap 1_38: -2965797766044868292
+      OverworldMap 1_39: -6194895117761106358
+      OverworldMap 1_4: 5917707840844253340
+      OverworldMap 1_40: 3551531927770201947
+      OverworldMap 1_41: 2868154726547710463
+      OverworldMap 1_42: 1922126477854885377
+      OverworldMap 1_43: -4786214420546026263
+      OverworldMap 1_44: -4385823719680078704
+      OverworldMap 1_45: 5460772381543555629
+      OverworldMap 1_46: -159212798863295546
+      OverworldMap 1_47: -8873004890324964472
+      OverworldMap 1_48: 4801275406812804428
+      OverworldMap 1_49: 2228724857123552599
+      OverworldMap 1_5: -8123586478358745150
+      OverworldMap 1_50: 3010510059712115149
+      OverworldMap 1_51: 5059486636464657522
+      OverworldMap 1_52: -867893522081551547
+      OverworldMap 1_53: 5673755026463867382
+      OverworldMap 1_54: -2952007987545504948
+      OverworldMap 1_55: 5993194661446791110
+      OverworldMap 1_56: -8828009354805205629
+      OverworldMap 1_57: 7084124758689604103
+      OverworldMap 1_58: 949028355657610340
+      OverworldMap 1_59: -5057131473836339564
+      OverworldMap 1_6: -5591096243367708094
+      OverworldMap 1_60: -4902413264415871470
+      OverworldMap 1_61: 2830194704682459894
+      OverworldMap 1_7: 3529141168266019350
+      OverworldMap 1_8: 6510934931971880692
+      OverworldMap 1_9: 881258070542870285
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
